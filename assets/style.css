@@ -1,0 +1,28 @@
+.crypted,
+.decrypted {
+    position: relative;
+}
+
+.copy-button-encrypted {
+    position: absolute;
+    right: 20px;
+    bottom: 5px;
+    cursor: pointer;
+}
+
+.copy-button-decrypted {
+    position: absolute;
+    right: 20px;
+    bottom: 5px;
+    cursor: pointer;
+}
+
+.copy-button-encrypted svg,
+.copy-button-decrypted svg {
+    stroke: rgb(204, 204, 204)
+}
+
+textarea.form-control {
+    min-height: 150px;
+    overflow-y: scroll;
+}
