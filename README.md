@@ -13,7 +13,7 @@ You can host it where you want or use my online version here: [https://albertore
 
 Simply put you text into the Encrypt textarea, choose a numeric key and press "Crypt". Same procedure to Decrypt it.
 
-Watch the video tutorial here:
+Watch the video tutorial here: [https://albertoreineri.it/crypt/tutorial.mp4](https://albertoreineri.it/crypt/tutorial.mp4)
 
 ## Contributing
 
